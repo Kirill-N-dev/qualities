@@ -11,6 +11,7 @@ import { QualitiesContext } from '../../App';
 https://lk.result.school/pl/teach/control/lesson/view?id=258409341
 таймкод 6:22-6:26
 */
+
 const QualityForm = ({data, onSubmit}) => {
 
     const {
